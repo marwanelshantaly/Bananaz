@@ -9,7 +9,7 @@
     "frontend": "npm start --prefix client",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Marwan elsadat, Marwan elshanty, Ziad",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.19.0",
